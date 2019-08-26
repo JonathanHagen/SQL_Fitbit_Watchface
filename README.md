@@ -1,11 +1,9 @@
 # SQL_Fitbit_Watchface
 A little SQL inspired watchface for Fitbit Versa.
 
-![image]
-(https://user-images.githubusercontent.com/20881630/63718589-87823480-c810-11e9-9943-5ba2db8900aa.png)
+![image](https://user-images.githubusercontent.com/20881630/63718589-87823480-c810-11e9-9943-5ba2db8900aa.png)
 
-![image]
-(https://user-images.githubusercontent.com/20881630/63718599-8b15bb80-c810-11e9-8a25-6a267e33d852.png)
+![image](https://user-images.githubusercontent.com/20881630/63718599-8b15bb80-c810-11e9-8a25-6a267e33d852.png)
 
 ![image]
 (https://user-images.githubusercontent.com/20881630/63718588-87823480-c810-11e9-97b3-9923b05e2e62.png)
