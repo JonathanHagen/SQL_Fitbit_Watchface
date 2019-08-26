@@ -1,0 +1,120 @@
+.background {
+  viewport-fill: black;
+}
+
+#selectLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 32;
+  x: 10;
+  y: 25;
+  fill: #2F4F4F;
+}
+
+#batteryDigits { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 124;
+  y: 65;
+  fill: #ff7645;
+}
+
+#where1Label { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 205;
+  y: 45;
+  fill: #ff7645;
+}
+
+#andTimeLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 90;
+  y: 85;
+  fill: #ff7645;
+}
+
+#andHrActiveLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 180;
+  y: 105;
+  fill: #21ffcb;
+}
+
+#andHrRestingLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 185;
+  y: 125;
+  fill: #21ffcb;
+}
+
+#andHrZoneLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 170;
+  y: 145;
+  fill: #ff7645;
+}
+
+#andStepsLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 145;
+  y: 165;
+  fill: #21ffcb;
+}
+
+#andFloorsLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 180;
+  y: 185;
+  fill: #21ffcb;
+}
+
+#andMoodLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 95;
+  y: 205;
+  fill: #ff7645;
+}
+
+#andSyncedLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 227;
+  y: 225;
+  fill: #21ffcb;
+}
+
+#andLatLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 73;
+  y: 265;
+  fill: #21ffcb;
+}
+
+#andLonLabel { 
+  font-size: 16;
+  font-family: Seville-Bold;
+  text-length: 50;
+  x: 73;
+  y: 285;
+  fill: #21ffcb;
+}
