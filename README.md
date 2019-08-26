@@ -11,4 +11,10 @@ A little SQL inspired watchface for Fitbit Versa.
 ![image]
 (https://user-images.githubusercontent.com/20881630/63718590-87823480-c810-11e9-9d1b-f1b258e20b07.png)
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/20881630/63718590-87823480-c810-11e9-9d1b-f1b258e20b07.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/20881630/63718590-87823480-c810-11e9-9d1b-f1b258e20b07.png" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/20881630/63718590-87823480-c810-11e9-9d1b-f1b258e20b07.png" width="100" />
+</p>
+
 This watchface includes a lot information (i.e. STAT HEAVY). I also developed a 'night mode' that dims the display during sleeping hours (12AM - 7 AM).
